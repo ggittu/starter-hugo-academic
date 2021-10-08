@@ -13,7 +13,7 @@ experience:
     company_url: ""
     company_logo: org-gc
     location: Vancouver
-    date_start: "2020"
+    date_start: "2022-01-01"
     date_end: ""
   - title: Professor of Semiconductor Physics
     company: University X
