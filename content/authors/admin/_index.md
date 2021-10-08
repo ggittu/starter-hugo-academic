@@ -1,6 +1,6 @@
 ---
-title: Gittu George
 role: Postdoctoral Teaching Fellow
+avatar_filename: 674bddad-fcf5-413e-ac5d-f6236b2d5ea0.jpg
 bio: ""
 interests:
   - Cloud Computing
@@ -28,9 +28,10 @@ education:
     - course: BTech in Computer Scence
       institution: Mahatma Gandhi University
       year: 2013
-email: ""
 superuser: true
 highlight_name: true
+title: Gittu George
+email: ""
 ---
 I’m an instructor for the Master of Data Science program at the University of British Columbia. A computer engineer turned out to be a researcher with a strong passion for teaching all in my journey. My research interests are at the intersection of computer science and genomics. My research work primarily focussed on developing various computational solutions to accelerate the analysis of large-scale BioResource data.
 
