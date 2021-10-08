@@ -22,10 +22,10 @@ education:
     - course: PhD in Bioinformatics
       institution: University of Dundee
       year: 2021
-    - course: MS in Computer Scence
+    - course: MS in Computer Science
       institution: University of Houston
       year: 2014
-    - course: BTech in Computer Scence
+    - course: BTech in Computer Science
       institution: Mahatma Gandhi University
       year: 2013
 superuser: true
