@@ -6,7 +6,7 @@ interests:
   - Cloud Computing
   - Bioinformatics
   - Data Science
-  - Big Data munging
+  - Big Data Munging
 social:
   - icon: envelope
     icon_pack: fas
