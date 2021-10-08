@@ -24,10 +24,10 @@ education:
       year: 2021
     - course: MS in Computer Scence
       institution: University of Houston
-      year: 1982
+      year: 2014
     - course: BTech in Computer Scence
       institution: Mahatma Gandhi University
-      year: 1985
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
