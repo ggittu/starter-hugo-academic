@@ -3,39 +3,31 @@ title: Gittu George
 role: Postdoctoral Teaching Fellow
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud Computing
+  - Bioinformatics
+  - Data Science
+  - Big Data munging
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/georgegit/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Bioinformatics
+      institution: University of Dundee
+      year: 2021
+    - course: MS in Computer Scence
+      institution: University of Houston
+      year: 1982
+    - course: BTech in Computer Scence
+      institution: Mahatma Gandhi University
+      year: 1985
 email: ""
 superuser: true
 highlight_name: true
