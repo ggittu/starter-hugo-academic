@@ -20,22 +20,22 @@ experience:
     company_url: ""
     company_logo: org-x
     location: United Kingdom
-    date_start: 2018-03-01
-    date_end: 2021-02-31
+    date_start: "2018-03-01"
+    date_end: "2021-02-31"
   - title: Data Engineer
     company: Biogen
     company_url: ""
     company_logo: org-x
     location: USA
-    date_start: 2015-01-01
-    date_end: 2018-03-31
+    date_start: "2015-01-01"
+    date_end: "2018-03-31"
   - title: Graduate Teaching Assistant
     company: University of Houston
     company_url: ""
     company_logo: org-x
     location: USA
-    date_start: 2014-12-01
-    date_end: 2013-09-01
+    date_start: "2014-12-01"
+    date_end: "2013-09-01"
 design:
   columns: "2"
 ---
