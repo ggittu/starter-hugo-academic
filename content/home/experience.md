@@ -20,8 +20,8 @@ experience:
     company_url: ""
     company_logo: org-x
     location: United Kingdom
-    date_start: "2018-03-01"
-    date_end: "2021-02-31"
+    date_start: "2018-04-01"
+    date_end: "2021-02-14"
   - title: Data Engineer
     company: Biogen
     company_url: ""
@@ -34,8 +34,8 @@ experience:
     company_url: ""
     company_logo: org-x
     location: USA
-    date_start: "2014-12-01"
-    date_end: "2013-09-01"
+    date_start: "2013-09-01"
+    date_end: "2014-12-01"
 design:
   columns: "2"
 ---
