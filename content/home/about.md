@@ -6,4 +6,7 @@ weight: 20
 title: Hi Gittu here
 active: true
 author: admin
+design:
+  background:
+    image: icon.png
 ---
