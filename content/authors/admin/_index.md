@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Teaching Fellow
-avatar_filename: 674bddad-fcf5-413e-ac5d-f6236b2d5ea0.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Cloud Computing
