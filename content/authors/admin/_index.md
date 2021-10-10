@@ -3,10 +3,10 @@ role: Postdoctoral Teaching Fellow
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Database Management Systems
+  - Big Data Frameworks
   - Cloud Computing
   - Bioinformatics
-  - Data Science
-  - Big Data Munging
 social:
   - icon: envelope
     icon_pack: fas
